@@ -34,7 +34,7 @@ Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 5) http:
 
 # Android Permissions used:-
-NONE
+1) uses-permission android:name="android.permission.INTERNET"
 
 ### LICENSE
 
