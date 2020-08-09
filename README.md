@@ -22,7 +22,7 @@ Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 # Download the Apk file here:-
 
 [Shortube.apk](https://github.com/Tushargupta9800/flutter-news-app-shortube-shortcut-to-news/blob/master/shortube.apk)
-### NOTE:- The Application doesn't show news until you make your own Account in Newsapi.org  and enter your API in the application.
+### NOTE:- The Application doesn't show news until you make your own Account in [Newsapi.org](https://newsapi.org/)  and enter your API in the application.
 ### To enter your API in the application Open the Application-> loading Screen-> Facing error-> Enter your API Key 
 
 
