@@ -25,6 +25,10 @@ Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 ### NOTE:- The Application doesn't show news until you make your own Account in [Newsapi.org](https://newsapi.org/)  and enter your API in the application.
 ### To enter your API in the application Open the Application-> loading Screen-> Facing error-> Enter your API Key 
 
+|Loading Screen|Facing Error Screen|
+:--------:|:------:
+<img src="https://github.com/Tushargupta9800/flutter-news-app-shortube-shortcut-to-news/blob/master/screenshot/loading.jpg" height="350em" />|<img src="https://github.com/Tushargupta9800/flutter-news-app-shortube-shortcut-to-news/blob/master/screenshot/error.jpg" height="350em" />|
+
 
 # Dependencies used:-
 1) webview_flutter:
