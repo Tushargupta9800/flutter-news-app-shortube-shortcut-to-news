@@ -27,11 +27,11 @@ Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 
 
 # Dependencies used:-
-1)webview_flutter:
-2)fluttertoast: ^3.1.3
-3)path_provider:
-4)url_launcher: ^5.5.0
-5)http:
+1) webview_flutter:
+2) fluttertoast: ^3.1.3
+3) path_provider:
+4) url_launcher: ^5.5.0
+5) http:
 
 # Android Permissions used:-
 NONE
