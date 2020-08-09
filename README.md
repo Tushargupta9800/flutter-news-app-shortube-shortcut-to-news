@@ -8,7 +8,7 @@ Building this Application with the intention of learning flutter better.🚴<br/
 This repo also contains the apk file 📱 too (link below).<br/>
 Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 
-# Screenshots:-
+# Screenshots/Features:-
 |Splashscreen|Mainpage|Drawer|Choose Country|
 :-------:|:-------:|:-------:|:-----:
 <img src="https://github.com/Tushargupta9800/flutter-news-app-shortube-shortcut-to-news/blob/master/screenshot/screenshot1.jpg" height="350em" />|<img src="https://github.com/Tushargupta9800/flutter-news-app-shortube-shortcut-to-news/blob/master/screenshot/screenshot2.jpg" height="350em" />|<img src="https://github.com/Tushargupta9800/flutter-news-app-shortube-shortcut-to-news/blob/master/screenshot/screenshot3.jpg" height="350em" />|<img src="https://github.com/Tushargupta9800/flutter-news-app-shortube-shortcut-to-news/blob/master/screenshot/screenshot4.jpg" height="350em" />|
