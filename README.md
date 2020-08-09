@@ -1,4 +1,4 @@
-# shortube
+# Shortube:- Shortcut to NEWS
 
 A new Flutter application.👤<br/>
 This is my first Application which uses API.😎<br/>
