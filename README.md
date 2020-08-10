@@ -40,6 +40,8 @@ Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 # Android Permissions used:-
 1) uses-permission android:name="android.permission.INTERNET"
 
+### Inspired from [Sanskar Tiwari Video](https://www.youtube.com/watch?v=aaGcER1uUoE)
+
 ### LICENSE
 
 ```
