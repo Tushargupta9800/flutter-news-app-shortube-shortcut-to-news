@@ -1,7 +1,7 @@
 # Shortube:- Shortcut to NEWS
 
 A new Flutter application.👤<br/>
-This is my first Application which uses API.😎<br/>
+This is my first Application in which I uses API.😎<br/>
 I kept the Interface very Simple.🙂<br/>
 The name of this Application is Shortube.🆕<br/>
 Building this Application with the intention of learning flutter better.🚴<br/>
